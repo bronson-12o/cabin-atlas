@@ -1,39 +1,5 @@
 # Cabin Atlas
 
-An explorable 3D home with a clear route back to professional work.
-
-## The problem
-
-The project gives visitors a small interactive place to explore while keeping case studies and the résumé easy to reach. Scene design, browser controls and application navigation share one experience.
-
-## How it works
-
-![Simplified project architecture](docs/presentation/system-overview.svg)
-
-The diagram summarizes the documented workflow; it is not a performance result or a generated application screenshot.
-
-## A view of the project
-
-![Cabin Atlas — existing project image](media/cabin.webp)
-
-Existing Cabin Atlas application capture; photographs, scene assets and saved activities are preserved.
-
-## Run or inspect the work
-
-[Open the portfolio](https://bronsonhatch.com) or [read the Cabin Atlas case](https://bronsonhatch.com/#work/cabin-atlas). This public repository is the visual case study; full shared application code remains private.
-
-## Evidence and scope
-
-The November 2026 checks verified live WebGL entry plus genuine local movement, menu interaction, camera switching and return navigation. Browser viewport checks are not physical-device performance validation.
-
-The saved capture shows an implemented state; concept images are not feature promises. Third-party assets retain their attribution. The detailed reference preserves the original asset and device-support boundaries.
-
-<details>
-
-<summary>Detailed setup, original screenshots and project reference</summary>
-
-# Cabin Atlas
-
 An interactive 3D portfolio home built with TypeScript, React, Three.js, Blender, and GLSL.
 
 I wanted a portfolio that could be explored while keeping professional work easy to reach. Cabin Atlas combines a navigable cabin with a project interface, résumé, woodworking, chess, golf, and snowboarding.
@@ -62,4 +28,4 @@ Original authored scene work is combined with credited third-party assets. The f
 
 [Use and attribution](USE-AND-ATTRIBUTION.md). The showcased project is independently built; third-party assets retain their own licenses.
 
-</details>
+![Project structure](docs/presentation/system-overview.svg)
